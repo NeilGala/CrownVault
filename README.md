@@ -1,2 +1,2 @@
 # CrownVault
-This C-based banking system facilitates account creation, login, deposits, withdrawals, and balance checks. It incorporates email  verification for security, with user-friendly interfaces and animations enhancing the user experience.
+This project is a simple banking system implemented in C. It allows users to create accounts, log in, deposit or withdraw money, and check their balance. The system includes features like email verification, PIN setup for secure transactions. Additionally, it includes basic interface designs and animations for a better user experience.
